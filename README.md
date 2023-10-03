@@ -10,7 +10,7 @@ I am passionate about video game development and have recently begun exploring h
   - 📧 dr.ales@protonmail.com
 
 ### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dralxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![dralxs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dralxs&theme=vue-dark&hide_border=true)
+
+![dralxs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dralxs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
