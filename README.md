@@ -1,7 +1,6 @@
-### Welcome !
+### Hi
 
-- 📫 How to reach me:
-  - 📧 dr.ales@protonmail.com
+📫 How to reach me : dr.ales@protonmail.com
 
 ### Stats
 ![dralxs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dralxs&theme=vue-dark&hide_border=true)
