@@ -1,11 +1,5 @@
 ### Welcome !
 
-Hi my name is Dralxs. I am a junior software engineer specializing in embedded systems.
-
-I am passionate about video game development and have recently begun exploring how to make malware. 
-
-(for educational purposes only 😉)
-
 - 📫 How to reach me:
   - 📧 dr.ales@protonmail.com
 
